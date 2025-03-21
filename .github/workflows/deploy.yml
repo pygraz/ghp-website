@@ -1,9 +1,6 @@
 # GitHub workflow to deploy website of Python user group Graz
 name: deploy
-on:
-  push:
-    branches:
-      - main
+on: push
 permissions:
   contents: write
 jobs:
@@ -17,5 +14,9 @@ jobs:
         run: sh scripts/set_up_project.sh
       - name: Lint documents
         run: uv run pre-commit run --all-files
+      - name: Build site
+        if: github.ref != 'refs/heads/main'
+        run: sh scripts/build_site.sh
       - name: Build and deploy site
+        if: github.ref == 'refs/heads/main'
         run: uv run mkdocs gh-deploy --force
