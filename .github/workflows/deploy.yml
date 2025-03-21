@@ -1,0 +1,21 @@
+# GitHub workflow to deploy website of Python user group Graz
+name: deploy
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+      - name: Set up project
+        run: sh scripts/set_up_project.sh
+      - name: Lint documents
+        run: uv run pre-commit run --all-files
+      - name: Build and deploy site
+      - run: uv run mkdocs build # TODO#1: gh-deploy --force
