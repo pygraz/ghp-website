@@ -18,4 +18,4 @@ jobs:
       - name: Lint documents
         run: uv run pre-commit run --all-files
       - name: Build and deploy site
-      - run: uv run mkdocs build # TODO#1: gh-deploy --force
+        run: uv run mkdocs build # TODO#1: gh-deploy --force
