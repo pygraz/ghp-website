@@ -1,1 +1,24 @@
-site_name: My Docs
+site_name: Python Usergroup Graz
+site_url: https://pygraz.org
+site_author: "Python Usergroup Graz"
+site_description: "The homepage of the Python Community in Graz, Austria"
+
+nav:
+  - Overview: index.md
+  - "Archive":
+      - "2025": "meetings/2025/index.md"
+      - "2024": "meetings/2024/index.md"
+      - "2023": "meetings/2023/index.md"
+      - "2022": "meetings/2022/index.md"
+      - "2021": "meetings/2021/index.md"
+      - "2020": "meetings/2020/index.md"
+      - "2019": "meetings/2019/index.md"
+      - "2018": "meetings/2018/index.md"
+      - "2017": "meetings/2017/index.md"
+      - "2016": "meetings/2016/index.md"
+      - "2015": "meetings/2019/index.md"
+      - "2014": "meetings/2014/index.md"
+      - "2013": "meetings/2013/index.md"
+      - "2012": "meetings/2012/index.md"
+      - "2011": "meetings/2011/index.md"
+      - "2010": "meetings/2010/index.md"
