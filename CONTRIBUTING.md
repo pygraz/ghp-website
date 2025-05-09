@@ -31,8 +31,29 @@ After that, you can build the website by running:
 sh scripts/build_site.sh
 ```
 
-In order so browse a local copy, run:
+In order to browse a local copy, run:
 
 ```bash
 sh scripts/serve_site.sh
+```
+
+## Deployment
+
+In order to deploy to GitHub pages, you first need to check out the respective repository:
+
+```bash
+cd ..
+git clone git@github.com:pygraz/pygraz.github.io.git
+```
+
+Then go back to the source repository:
+
+```bash
+cd ../ghp-website
+```
+
+and run the script to deploy the site:
+
+```bash
+sh scripts/deploy_site.sh
 ```
