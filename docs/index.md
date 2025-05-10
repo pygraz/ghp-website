@@ -19,6 +19,8 @@ Participants (who want to follow along on their laptop) would need a working Doc
 
 :material-account-circle-outline: Nicoo
 
+:material-github: [repository with k8s-with-pulumi example](https://github.com/nbraud/pyGraz-k8s)
+
 :material-clock-time-seven-outline: Tuesday, June 3rd 2025 - Realraum<br>
 :material-map-marker-outline: [Realraum](https://wp.realraum.at/), Brockmanngasse 15, 8020 Graz
 
