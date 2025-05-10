@@ -1,10 +1,32 @@
-site_name: Python Usergroup Graz
+site_name: Python User Group Graz
 site_url: https://pygraz.org
 site_author: "Python Usergroup Graz"
 site_description: "The homepage of the Python Community in Graz, Austria"
 
+repo_url: https://github.com/pygraz/ghp-website
+
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: cyan
+  features:
+    - navigation.footer
+  icon:
+    logo: material/snake
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: "!!python/name:material.extensions.emoji.twemoji"
+      emoji_generator: "!!python/name:material.extensions.emoji.to_svg"
+  - toc:
+      permalink: true
+
 nav:
   - Overview: index.md
+  - "Types of meetings": "meeting_types.md"
+  - "Propose a session": "session_proposal.md"
   - "Archive":
       - "2025":
           - "2025-02-04": "meetings/2025/2025-02-04.md"
@@ -179,3 +201,5 @@ nav:
           - "2012 on one page": "meetings/2012/index.md"
           - "2011 on one page": "meetings/2011/index.md"
           - "2010 on one page": "meetings/2010/index.md"
+
+  - "Imprint": "imprint.md"

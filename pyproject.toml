@@ -5,6 +5,7 @@ description = "Website of Python user group Graz using GitHub pages"
 requires-python = ">=3.12, <4"
 dependencies = [
     "mkdocs>=1.6.1",
+    "mkdocs-material>=9.6.13",
     "pre-commit>=4.2.0",
     "ruff>=0.11.2",
 ]
