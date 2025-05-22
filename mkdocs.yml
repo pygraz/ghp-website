@@ -1,7 +1,7 @@
 site_name: Python User Group Graz
 site_url: https://pygraz.org
-site_author: "Python Usergroup Graz"
-site_description: "The homepage of the Python Community in Graz, Austria"
+site_author: "Python user group Graz"
+site_description: "The homepage of the Python community in Graz, Austria"
 
 repo_url: https://github.com/pygraz/ghp-website
 
