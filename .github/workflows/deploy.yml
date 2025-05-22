@@ -1,8 +1,6 @@
 # GitHub workflow to deploy website of Python user group Graz
 name: deploy
 on: push
-permissions:
-  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
