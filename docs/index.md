@@ -6,7 +6,15 @@ We are a group of people meeting on a regular basis in [Graz](https://osm.org/go
 
 We are open for everyone and are looking forward to meeting you!
 
-## Next meeting: "Modern ops in Python"
+
+## ATTENTION : UPDATE 
+
+:material-account-alert: Due to sickness of our speaker todays talk is canceled!
+
+The meeting will take place, but without a talk.
+
+## Not today: "Modern ops in Python"
+
 
 Bring up a Kubernetes cluster from the ground up, using Pulumi for Infra-as-(Python)Code, as well as good practices for hosting (Python) applications on it.
 
