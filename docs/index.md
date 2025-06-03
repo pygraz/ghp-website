@@ -7,7 +7,8 @@ We are a group of people meeting on a regular basis in [Graz](https://osm.org/go
 We are open for everyone and are looking forward to meeting you!
 
 
-## ATTENTION : UPDATE 
+## ATTENTION : UPDATE
+
 
 :material-account-alert: Due to sickness of our speaker todays talk is canceled!
 
