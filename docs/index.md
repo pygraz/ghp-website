@@ -10,7 +10,7 @@ We are open for everyone and are looking forward to meeting you!
 ## ATTENTION : UPDATE
 
 
-:material-account-alert: Due to sickness of our speaker todays talk is canceled!
+:material-account-alert: Due to sickness of our speaker todays talk is cancelled!
 
 The meeting will take place, but without a talk.
 
