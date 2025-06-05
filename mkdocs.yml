@@ -8,8 +8,26 @@ repo_url: https://github.com/pygraz/ghp-website
 theme:
   name: material
   palette:
-    primary: black
-    accent: cyan
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+      primary: black
+      accent: cyan
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: black
+      accent: cyan
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+      primary: black
+      accent: cyan
   features:
     - navigation.footer
   icon:
