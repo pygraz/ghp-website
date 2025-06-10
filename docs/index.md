@@ -1,4 +1,6 @@
-![Python Logo](img/python-logo-master-v3-TM.png)
+<div style="text-align: center; margin-bottom: 15px;">
+<img alt="Python Logo" src="img/python-logo-generic.svg" width=518 height=153>
+</div>
 
 # Python User Group Graz
 
