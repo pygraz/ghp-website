@@ -52,6 +52,7 @@ nav:
           - "2025-04-01": "meetings/2025/2025-04-01.md"
           - "2025-05-06": "meetings/2025/2025-05-06.md"
           - "2025-06-03": "meetings/2025/2025-06-03.md"
+          - "2025-07-01": "meetings/2025/2025-07-01.md"
       - "2024":
           - "2024-02-06": "meetings/2024/2024-02-06.md"
           - "2024-03-05": "meetings/2024/2024-03-05.md"
@@ -138,7 +139,6 @@ nav:
           - "2016-09-06": "meetings/2016/2016-09-06.md"
           - "2016-10-04": "meetings/2016/2016-10-04.md"
           - "2016-12-06": "meetings/2016/2016-12-06.md"
-
       - "2015":
           - "2015-02-03": "meetings/2015/2015-02-03.md"
           - "2015-03-03": "meetings/2015/2015-03-03.md"
@@ -221,5 +221,5 @@ nav:
           - "2011 on one page": "meetings/2011/index.md"
           - "2010 on one page": "meetings/2010/index.md"
   - "Media":
-      "Python: The documentary": "media.md"
+      - "Python: The documentary": "media.md"
   - "Imprint": "imprint.md"
