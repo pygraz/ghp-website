@@ -220,5 +220,6 @@ nav:
           - "2012 on one page": "meetings/2012/index.md"
           - "2011 on one page": "meetings/2011/index.md"
           - "2010 on one page": "meetings/2010/index.md"
-
+  - "Media":
+      "Python: The documentary": "media.md"
   - "Imprint": "imprint.md"

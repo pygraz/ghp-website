@@ -16,8 +16,7 @@ Python Usergroup Graz<br/> a consumption-free area for meetings for a very long 
 They helped us to develop and keep pygraz a free-to-access meeting for everybody.
 It is a incubator and home for a variety of interesting groups in Graz.<br/>
 
-Now they try to **buy its leased premisses** <br>
-(which have been paid rent for since 25 years).
+Now they try to **buy its leased property** (which has been rented since 25 years).
 
 **And you can help : Join the movement and help to buy the Spektral!**
 
