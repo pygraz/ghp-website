@@ -11,7 +11,7 @@ We are open for everyone and are looking forward to meeting you!
 ## :material-handshake: Spektral needs your help!
 
 The local club "[Spektral](https://spektral.at)" has provided the
-Python Usergroup Graz<br/> a consumation-free area for meetings for a very long time.
+Python Usergroup Graz<br/> a consumption-free area for meetings for a very long time.
 
 They helped us to develop and keep pygraz a free-to-access meeting for everybody.
 It is a incubator and home for a variety of interesting groups in Graz.<br/>
