@@ -22,19 +22,14 @@ Now they try to **buy its leased property** (which has been rented since 25 year
 
 See [https://zukunft.spektral.at](https://zukunft.spektral.at) (or [english](https://zukunft-spektral-at.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) version)
 
-## Next meeting : Most likely 7th Oktober
+## :material-presentation: Next Meeting : Topic to be announced
 
-:material-clock-time-seven-outline: Tuesday, Oktober 7th 2025 - 19:00 o'clock<br>
-:material-map-marker-outline: G&ouml;sser Br&auml;u, Neutorgasse 48, A-8010 Graz
+:material-clock-time-seven-outline: Tuesday, November 4th 2025 - Realraum<br>
+:material-map-marker-outline: [Realraum](https://wp.realraum.at/), Brockmanngasse 15, 8020 Graz
 
-The autum session of pygraz is a meet & eat Python Usergroup Session!
+This will most likely be a talk.
 
-Join us at the G&ouml;sser Br&auml;u Graz. No special talks this time.
-Just grab some drinks, eat something and let's have some conversations around python at a late summer / early autumn evening!
-
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=15.436297953128816%2C47.06568054212096%2C15.438526868820192%2C47.067929546736664&amp;layer=mapnik&amp;marker=47.06680505628998%2C15.437412410974503" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=47.066805&amp;mlon=15.437412#map=19/47.066805/15.437412">Größere Karte anzeigen</a></small>
-
-If you are on [graz.social](https://events.graz.social/events/7c3b4896-d5f6-4434-86aa-e33c1bcecea4) you can confirm your attendence there or use [meetup](https://www.meetup.com/pygraz/events/308671654/?eventOrigin=group_upcoming_events)!
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=15.447978973388674%2C47.064176889845406%2C15.453107357025148%2C47.067021552232916&amp;layer=mapnik&amp;marker=47.06560015352202%2C15.45054316520691" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=47.065600&amp;mlon=15.450543#map=19/47.065599/15.450543">Größere Karte anzeigen</a></small>
 
 ## Stay connected
 
