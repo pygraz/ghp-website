@@ -22,12 +22,14 @@ Now they try to **buy its leased property** (which has been rented since 25 year
 
 See [https://zukunft.spektral.at](https://zukunft.spektral.at) (or [english](https://zukunft-spektral-at.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) version)
 
-## :material-presentation: Next Meeting : Topic to be announced
+## :material-presentation: Next Meeting : Lightning Talks
 
 :material-clock-time-seven-outline: Tuesday, November 4th 2025 - Realraum<br>
 :material-map-marker-outline: [Realraum](https://wp.realraum.at/), Brockmanngasse 15, 8020 Graz
 
-This will most likely be a talk.
+See [Lightning talks](https://en.wikipedia.org/wiki/Lightning_talks){:target="\_blank"} on Wikipedia.
+
+You do not have to talk, but are encouraged to!
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=15.447978973388674%2C47.064176889845406%2C15.453107357025148%2C47.067021552232916&amp;layer=mapnik&amp;marker=47.06560015352202%2C15.45054316520691" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=47.065600&amp;mlon=15.450543#map=19/47.065599/15.450543">Größere Karte anzeigen</a></small>
 
