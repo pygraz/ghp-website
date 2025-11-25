@@ -8,20 +8,6 @@ We are a group of people meeting on a regular basis in [Graz](https://osm.org/go
 
 We are open for everyone and are looking forward to meeting you!
 
-## :material-handshake: Spektral needs your help!
-
-The local club "[Spektral](https://spektral.at)" has provided the
-Python Usergroup Graz<br/> a consumption-free area for meetings for a very long time.
-
-They helped us to develop and keep pygraz a free-to-access meeting for everybody.
-It is a incubator and home for a variety of interesting groups in Graz.<br/>
-
-Now they try to **buy its leased property** (which has been rented since 25 years).
-
-**And you can help : Join the movement and help to buy the Spektral!**
-
-See [https://zukunft.spektral.at](https://zukunft.spektral.at) (or [english](https://zukunft-spektral-at.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) version)
-
 ## :material-presentation: Next Meeting : Lightning Talks
 
 :material-clock-time-seven-outline: Tuesday, November 4th 2025 - Realraum<br>
