@@ -13,13 +13,13 @@ To keep informed about our events, you can follow us on [meetup.com/pygraz](http
 
 ## Pycon Austria 2026
 
-<img src="img/pycon_logo.webp" style="float: left; margin-right: 15px; margin-bottom: 10px;" width="64">
+<img alt="Pycon Austria logo", src="img/pycon_logo.webp" style="float: left; margin-right: 15px; margin-bottom: 10px;" width="64">
 
 This year's [Pycon Austria](https://2026.pycon.at/) will be held in Eisenstadt from 19th to 20th of March 2026. The [call for papers](https://2026.pycon.at/blog/call-for-papers-open/) is open until the 6th of March 2026.
 
 ## :material-presentation: Next Meeting: Flet app coding dojo
 
-:material-clock-time-seven-outline: Tuesday, February 3rd 2026, 19:00
+:material-clock-time-seven-outline: Tuesday, February 3rd, 2026, 19:00
 
 It's time again to do some coding together.
 
