@@ -6,4 +6,4 @@ Welcome to the website of Python user group Graz.
 
 This website uses [mkdocs](https://www.mkdocs.org/) for design and [GitHub pages](https://pages.github.com/) for deployment.
 
-See [CONTRIBUTING](CONTRIBUTING.md) on how to build it on you local computer and help improving it.
+See [CONTRIBUTING](CONTRIBUTING.md) on how to build it on your local computer and help improve it.
