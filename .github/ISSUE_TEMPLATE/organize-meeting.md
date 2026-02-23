@@ -31,6 +31,16 @@ The link to the meeting notes is published to interested parties (adjust as need
 
 - [ ] Comment at the meetup.com entry
 - [ ] Post on [graz.social](https://graz.social/public/local)
+- [ ] The homepage shows the next meetings using the template:
+  > ## Next meeting
+  >
+  > Most likely this will be:
+  > :material-clock-time-seven-outline: March 3, 2026<br/>
+  > :material-clock-time-seven-outline: April 7, 2026
+  >
+  > ## Last meeting
+  >
+  > TODO: Insert description from before
 
 ## Meeting templates
 
