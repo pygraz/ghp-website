@@ -1,3 +1,3 @@
 #!/bin/sh
 set -ex
-uv run mkdocs build --strict
+uv run mkdocs build --clean --strict
