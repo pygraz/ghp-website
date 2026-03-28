@@ -50,6 +50,7 @@ nav:
   - "Propose a session": "session_proposal.md"
   - "Archive":
       - "2026":
+          - "2026-03-03": "meetings/2026/2026-03-03.md"
           - "2026-02-03": "meetings/2026/2026-02-03.md"
       - "2025":
           - "2025-11-04": "meetings/2025/2025-11-04.md"
