@@ -1,8 +1,8 @@
-exclude: "^\\.idea"
+exclude: "^(\\.idea|.*\\.key$)"
 
 repos:
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.9.10
+    rev: v0.15.9
     hooks:
       - id: ruff-format
       - id: ruff
@@ -19,6 +19,7 @@ repos:
       - id: fix-byte-order-marker
       - id: trailing-whitespace
       - id: check-added-large-files
+        args: ["--maxkb=4096"]
       - id: check-ast
       - id: check-executables-have-shebangs
       - id: check-json
