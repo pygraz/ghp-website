@@ -43,7 +43,16 @@ To keep informed about our events, you can follow us on [meetup.com/pygraz](http
 
 <img alt="Pycon Austria logo", src="img/pycon_logo.webp" style="float: left; margin-right: 15px; margin-bottom: 10px;" width="64">
 
-This year's [Pycon Austria](https://2026.pycon.at/) will be held in Eisenstadt from 19th to 20th of March 2026. The [call for papers](https://2026.pycon.at/blog/call-for-papers-open/) is open until the 6th of March 2026.
+This year's [Pycon Austria](https://2026.pycon.at/) will be held in Eisenstadt from 19th to 20th of April 2026.
 
-:material-clock-time-seven-outline: 19th - 20th March, 2026
+:material-clock-time-seven-outline: 19th and 20th of April 2026
 :material-map-marker-outline: Eisenstadt, Austria
+
+## Barcamp Graz
+
+<img alt="Barcamp Graz logo", src="img/barcamp_graz_logo.png" style="float: left; margin-right: 15px; margin-bottom: 10px;" width="64">
+
+The [Barcamp Graz](https://barcampgraz.at/) is an open conference with workshops where the content is shaped by the participants. Your ideas, your knowledge, and your passion are the heart of Barcamp.
+
+:material-clock-time-seven-outline: 30th of May 2026
+:material-map-marker-outline: FH Joanneum, Graz
