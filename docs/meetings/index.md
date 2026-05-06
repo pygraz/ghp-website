@@ -1,7 +1,8 @@
-# Index of Python Usergroup Graz meetings
+# Archive of Python user group Graz meetings
 
 ## 2026
 
+- [2026-05-05](2026/2026-05-05.md)
 - [2026-04-07](2026/2026-04-07.md)
 - [2026-03-03](2026/2026-03-03.md)
 - [2026-02-03](2026/2026-02-03.md)

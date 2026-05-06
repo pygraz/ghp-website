@@ -24,7 +24,6 @@ The meeting is recorded on GitHub pages:
 
 - [ ] docs/meetings/20xx/20xx-xx-xx.md
 - [ ] docs/meetings/20xx/index.md
-- [ ] mkdocs.yaml > nav > Archive > 20xx
 - [ ] docs/index.md
 
 The link to the meeting notes is published to interested parties (adjust as needed):
