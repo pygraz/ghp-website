@@ -10,12 +10,21 @@ We are open for everyone and are looking forward to meeting you!
 
 Usually we meet on the **first Tuesday of the month**. Topics and locations are announced here when available.
 
-## Next meeting: Talk: Python software quality tools
+## Next meeting: Talk: Python code quality: tools and aspects
 
 :material-clock-time-seven-outline: Tuesday, June 2nd 2026, 19:00<br>
 :material-map-marker-outline: [Spektral](http://spektral.at/), Lendkai 45, 8020 Graz
 
-TODO#11 Add description.
+This time there will be a theme evening with several talks and a discussion on the overarching topic "Python code quality". While some say that more source code means more productivity, others say that every line of source code is a liability. In addition to the quantity, however, the characteristics of each line of source code are decisive for how well a software application behaves and how easy it is to make changes.
+
+Although Python has a dynamic type system and thus a lot of information is only available at runtime, there are some tools to evaluate the maintainability, comprehensibility, efficiency, and robustness of an application purely on the basis of the source code.
+
+During this Meetup, we'll take a look at some of them.
+
+- Type checking with Ty
+- Static code analysis with Ruff
+- Pre-commit hooks and prek
+- Data harvesting your git history
 
 ### Map
 
