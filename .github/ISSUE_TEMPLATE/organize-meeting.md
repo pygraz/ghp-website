@@ -13,6 +13,7 @@ type: Task
 The meeting is added and announced:
 
 - [ ] The meeting is announced on [meetup.com](https://www.meetup.com/https-pygraz-org/events/).
+- [ ] The meeting is announced on Discord.
 - [ ] The meeting is announced on [pygraz.org](https://pygraz.org)
 
 If the location is [realraum](https://realraum.at):
