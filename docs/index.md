@@ -10,22 +10,20 @@ We are open for everyone and are looking forward to meeting you!
 
 Usually we meet on the **first Tuesday of the month**. Topics and locations are announced here when available.
 
-## Next meeting: Meet & Eat
+## Next meeting: Python code quality: tools and aspects
 
-:material-clock-time-seven-outline: Tuesday, July 7th 2026, 19:00<br>
-:material-map-marker-outline: [Gösserbräu](https://www.goesserbraeugraz.at/), Neutorgasse 48, A-8010 Graz
+:material-clock-time-seven-outline: Tuesday, September 1st 2026, 19:00<br>
+:material-map-marker-outline: [Spektral](http://spektral.at/), Lendkai 45, 8020 Graz
 
 ## Description
 
-We hope for nice summer weather and meet once again for the proven and tested regulars' table format ("Stammtisch"). With good food and a relaxed atmosphere, there is the opportunity to exchange ideas about everything that has to do with Python.
+This time there will be a theme evening with several talks and a discussion on the overarching topic "Python code quality". While some say that more source code means more productivity, others say that every line of source code is a liability. In addition to the quantity, however, the characteristics of each line of source code are decisive for how well a software application behaves and how easy it is to make changes.
 
-English speakers are welcome.
-
-The table is reserved for "Santner".
+Although Python has a dynamic type system and thus a lot of information is only available at runtime, there are some tools to evaluate the maintainability, comprehensibility, efficiency, and robustness of an application purely on the basis of the source code.
 
 ## Map
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=15.436204075813295%2C47.065773719663476%2C15.439369082450868%2C47.06812137458237&amp;layer=mapnik&amp;marker=47.06694664656311%2C15.43778657913208" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=47.066947&amp;mlon=15.437787#map=19/47.066948/15.437787">View Larger Map</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=15.43159067630768%2C47.074206526280136%2C15.434809327125551%2C47.07655380977882&amp;layer=mapnik&amp;marker=47.075379267613926%2C15.433200001716614" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=47.075379&amp;mlon=15.433200#map=19/47.075380/15.433200">View Larger Map</a></small>
 
 ## Last meeting
 
