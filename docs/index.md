@@ -25,7 +25,7 @@ The table is reserved for "Santner".
 
 ## Map
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=15.43159067630768%2C47.074206526280136%2C15.434809327125551%2C47.07655380977882&amp;layer=mapnik&amp;marker=47.075379267613926%2C15.433200001716614" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=47.075379&amp;mlon=15.433200#map=19/47.075380/15.433200">View Larger Map</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=15.436204075813295%2C47.065773719663476%2C15.439369082450868%2C47.06812137458237&amp;layer=mapnik&amp;marker=47.06694664656311%2C15.43778657913208" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=47.066947&amp;mlon=15.437787#map=19/47.066948/15.437787">View Larger Map</a></small>
 
 ## Last meeting
 
