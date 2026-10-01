@@ -10,16 +10,18 @@ We are open for everyone and are looking forward to meeting you!
 
 Usually we meet on the **first Tuesday of the month**. Topics and locations are announced here when available.
 
-## Next meeting: Python code quality: tools and aspects
+## Next meeting: Meet & eat
 
-:material-clock-time-seven-outline: Tuesday, September 1st 2026, 19:00<br>
-:material-map-marker-outline: [Spektral](http://spektral.at/), Lendkai 45, 8020 Graz
+:material-clock-time-seven-outline: Tuesday, October 6th 2026, 19:00<br>
+:material-map-marker-outline: [Gösserbräu](https://www.goesserbraeugraz.at/), Neutorgasse 48, A-8010 Graz
 
 ## Description
 
-This time there will be a theme evening with several talks and a discussion on the overarching topic "Python code quality". While some say that more source code means more productivity, others say that every line of source code is a liability. In addition to the quantity, however, the characteristics of each line of source code are decisive for how well a software application behaves and how easy it is to make changes.
+Autumn is here and with it our regulars' table format ("Stammtisch"). With good food and a relaxed atmosphere, there is the opportunity to exchange ideas about everything that has to do with Python (and more).
 
-Although Python has a dynamic type system and thus a lot of information is only available at runtime, there are some tools to evaluate the maintainability, comprehensibility, efficiency, and robustness of an application purely on the basis of the source code.
+English speakers are welcome.
+
+The table is reserved for "Santner".
 
 ## Map
 
@@ -27,8 +29,8 @@ Although Python has a dynamic type system and thus a lot of information is only 
 
 ## Last meeting
 
-[Meet & Eat](meetings/2026/2026-06-02.md)
+[Python code quality: tools and aspects](meetings/2026/2026-09-01.md)
 
 ## Stay connected
 
-To keep informed about our events, you can follow us on [meetup.com/pygraz](https://www.meetup.com/pygraz/) or [events.graz.social/@pygraz](https://events.graz.social/@pygraz).
+To keep informed about our events, you can follow us on [events.graz.social/@pygraz](https://events.graz.social/@pygraz).
