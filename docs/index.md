@@ -10,22 +10,22 @@ We are open for everyone and are looking forward to meeting you!
 
 Usually we meet on the **first Tuesday of the month**. Topics and locations are announced here when available.
 
-## Next meeting: Meet & eat
+## Next meeting: Lightning talks
 
-:material-clock-time-seven-outline: Tuesday, October 6th 2026, 19:00<br>
-:material-map-marker-outline: [Gösserbräu](https://www.goesserbraeugraz.at/), Neutorgasse 48, A-8010 Graz
+:material-clock-time-seven-outline: Tuesday, Decemer 1st 2026, 19:00<br>
+:material-map-marker-outline: [Spektral](http://spektral.at/), Lendkai 45, 8020 Graz
 
-## Description
+[Lightning talks](https://en.wikipedia.org/wiki/Lightning_talks){:target="\_blank"} are very short presentations lasting only a few minutes. They are a great opportunity to share your knowledge with others and learn about multiple topics at once.
 
-Autumn is here and with it our regulars' table format ("Stammtisch"). With good food and a relaxed atmosphere, there is the opportunity to exchange ideas about everything that has to do with Python (and more).
+Did you find a helpful Python package? Did you encounter Python at a place you never expected? Did you see an interesting talk at a Python conference? Did you learn about a nifty tool that simplifies Python development? Did you automate a boring chore using Python?
 
-English speakers are welcome.
+Make a short presentation about it, typically 5 to 10 minutes, though it's perfectly fine to be quicker. If needed, use slides, show a related website - or just talk.
 
-The table is reserved for "Santner".
+Of course, everyone is welcome to just watch and listen, even without giving a talk.
 
-## Map
+There is no need to propose a talk beforehand. Just drop by and we arrange the agenda together.
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=15.436204075813295%2C47.065773719663476%2C15.439369082450868%2C47.06812137458237&amp;layer=mapnik&amp;marker=47.06694664656311%2C15.43778657913208" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=47.066947&amp;mlon=15.437787#map=19/47.066948/15.437787">View Larger Map</a></small>
+The event will be held in English unless everyone on-site speaks German. For slides, English is recommended so the information can be accessed afterward by a large audience.
 
 ## Last meeting
 
